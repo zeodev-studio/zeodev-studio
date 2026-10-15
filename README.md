@@ -2,109 +2,107 @@
 
 # ZeoDev Studio
 
-### Software engineering. Infrastructure thinking.
+**DESIGN &nbsp; / &nbsp; DEVELOPMENT &nbsp; / &nbsp; DELIVERY**
 
-**Designing and developing practical software — from the user interface to the systems running behind it.**
+### Your idea. Thoughtful design. Software that works.
 
-Independent development studio focused on applications, connected services and self-hosted infrastructure.
+We design and develop websites, applications and connected systems — turning practical ideas into digital products ready to grow.
 
 <p>
-  <a href="https://zeohost.pl">
-    <img alt="ZeoHost — website" src="https://img.shields.io/badge/ZeoHost-Visit%20website-087DFF?style=for-the-badge&amp;labelColor=0A1E2C" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/zeodev-studio?tab=repositories">
-    <img alt="GitHub — explore repositories" src="https://img.shields.io/badge/GitHub-Explore%20projects-2254A6?style=for-the-badge&amp;labelColor=0A1E2C&amp;logo=github&amp;logoColor=white" />
-  </a>
+  <a href="https://studio.zeohost.pl"><img alt="Explore ZeoDev Studio website" src="https://img.shields.io/badge/EXPLORE_THE_STUDIO-VISIT_WEBSITE-1688FF?style=for-the-badge&labelColor=0A1E2C" /></a>
+  <a href="https://github.com/zeodev-studio?tab=repositories"><img alt="Explore our GitHub projects" src="https://img.shields.io/badge/OUR_WORK-VIEW_PROJECTS-355D95?style=for-the-badge&labelColor=0A1E2C&logo=github&logoColor=white" /></a>
 </p>
 
-`APPLICATIONS` &nbsp;·&nbsp; `BACKEND` &nbsp;·&nbsp; `CLOUD` &nbsp;·&nbsp; `DEVOPS`
+**Websites** &nbsp;·&nbsp; **Applications** &nbsp;·&nbsp; **APIs & Integrations** &nbsp;·&nbsp; **Automation**
 
 </div>
 
 ---
 
-## About ZeoDev Studio
+## Built around the idea. Engineered for what comes next.
 
-ZeoDev Studio brings **application development** and **infrastructure engineering** into one workflow. The work spans intuitive interfaces, reliable backends, service integrations and the environments needed to deploy and operate them.
+At **ZeoDev Studio**, design and development are part of the same process. We focus on what a product needs to achieve, how people will use it, and how its technology should support future improvements.
 
-The objective is straightforward: **build software that is clear to use, maintainable to develop and practical to operate.**
+From the first interface to the services behind it, the goal is straightforward: **clear experiences, dependable functionality and maintainable software.**
 
-## What we build
+## What we create
 
-### 01 — Applications & digital products
+### 01 / Websites & digital experiences
 
-Cross-platform applications, internal business tools, web interfaces and systems designed around real user workflows. A consistent experience, responsive design and good performance are part of the engineering process.
+Company websites, landing pages and responsive web interfaces. We work toward a clear visual structure, accessible navigation and a consistent experience across devices.
 
-### 02 — Backend & connected systems
+### 02 / Applications & business tools
 
-APIs, authentication, data processing, integrations and real-time communication. Services are structured with clear boundaries, meaningful error handling and room for future development.
+Web and mobile applications, administrative panels and internal tools built around real workflows. We connect interface design with data, permissions and the features users actually need.
 
-### 03 — Infrastructure & operations
+### 03 / APIs, integrations & automation
 
-Linux-based environments, Docker workloads, secure connectivity, deployment processes and operational tooling. The focus is on visibility, repeatable setup and dependable day-to-day maintenance.
-
----
-
-## ZeoHost
-
-**Hosting & infrastructure project** · **In development**
-
-ZeoHost is an infrastructure-focused project being developed alongside the software engineering work at ZeoDev Studio. Its direction includes self-hosting, service deployment, operational management and foundations for future hosting services.
-
-Current engineering priorities:
-
-- **Service architecture** — separation of components and manageable deployments.
-- **Operations** — diagnostics, monitoring, backups and recovery planning.
-- **Networking & access** — secure connections and controlled exposure of services.
-- **Maintainability** — repeatable configuration and clear operational workflows.
-
-[**Visit ZeoHost.pl →**](https://zeohost.pl)
-
-> ZeoHost is an active development project. Features and public availability should not be assumed until they are announced.
+Backend services, system integrations, notifications and process automation. We aim for clear interfaces between components, reliable communication and solutions that are straightforward to evolve.
 
 ---
 
-## Technology
+## How we work
 
-**Applications**  
-`TypeScript` · `JavaScript` · `React Native` · `Expo`
+**01 — Discover** &nbsp; Define the problem, users, requirements and priorities.
 
-**Services & communication**  
-`Node.js` · `REST APIs` · `WebSockets` · `Socket.IO` · `SQLite`
+**02 — Design** &nbsp; Plan the experience, structure and technical direction.
 
-**Infrastructure & delivery**  
-`Linux` · `Docker` · `Cloudflare` · `Tailscale` · `Git`
+**03 — Develop** &nbsp; Build the product and verify its key workflows and integrations.
+
+**04 — Deliver & evolve** &nbsp; Prepare the release and plan improvements around real needs.
+
+> Good software starts with a clear purpose — not unnecessary complexity.
+
+---
+
+## The Zeo ecosystem
+
+ZeoDev Studio and **ZeoHost** are connected brands with different specialties:
+
+- **ZeoDev Studio** focuses on software, websites, applications and integrations.
+- **ZeoHost** focuses on Minecraft server hosting and the infrastructure behind it.
+
+The two brands share an interest in thoughtful engineering while serving different needs.
+
+**[Explore ZeoHost →](https://zeohost.pl)** &nbsp;·&nbsp; **[Explore ZeoDev Studio →](https://studio.zeohost.pl)**
+
+---
+
+## Technology & engineering
+
+| Product development | Backend & integrations | Infrastructure & delivery |
+| :--- | :--- | :--- |
+| TypeScript, JavaScript | Node.js, REST APIs | Linux, Docker |
+| React Native, Expo | WebSockets, Socket.IO | Cloudflare, Tailscale |
+| Responsive web interfaces | SQLite, data workflows | Git, deployments |
 
 <details>
-<summary><strong>Engineering approach — read more</strong></summary>
+<summary><strong>Engineering principles — how we build</strong></summary>
 
-<br>
-
-- **Architecture:** clear responsibility boundaries and reusable components.
-- **Quality:** validation, purposeful testing and readable code.
-- **Performance:** efficient data flow, sensible resource usage and profiling.
-- **Reliability:** helpful diagnostics, error recovery and lifecycle awareness.
-- **Security:** least-privilege access and careful management of credentials.
-- **Maintenance:** documentation, backups and predictable deployments.
+- **Purpose before complexity:** solutions should fit the problem they solve.
+- **Clear architecture:** explicit responsibilities and manageable dependencies.
+- **Quality in the details:** reliable workflows, useful validation and deliberate testing.
+- **Security by design:** appropriate access control and careful handling of credentials.
+- **Built to evolve:** readable code, sound foundations and practical maintenance.
 
 </details>
 
 ---
 
-## Work & repositories
+## Have a project in mind?
 
-This GitHub account is the public home of ZeoDev Studio. Selected work may be published here; internal projects, customer data and private infrastructure remain private.
+A company website, a mobile application, an internal tool or a system integration — tell us what you want to build. We can start with the idea and work toward a clear scope.
 
-[**Explore public repositories →**](https://github.com/zeodev-studio?tab=repositories)
+**[Visit our studio →](https://studio.zeohost.pl)** &nbsp;·&nbsp; **[Contact us →](mailto:kontakt@zeohost.pl?subject=ZeoDev%20Studio)**
 
 ---
 
 <div align="center">
 
-**ZeoDev Studio**  
-*Build thoughtfully. Engineer for the long term.*
+**ZeoDev Studio**
 
-[GitHub](https://github.com/zeodev-studio) &nbsp;·&nbsp; [ZeoHost.pl](https://zeohost.pl)
+*Design with purpose. Engineer for the long term.*
+
+[Studio website](https://studio.zeohost.pl) &nbsp;·&nbsp; [GitHub](https://github.com/zeodev-studio) &nbsp;·&nbsp; [ZeoHost](https://zeohost.pl)
 
 </div>
