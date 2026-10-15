@@ -1,168 +1,142 @@
-<p align="center">
-  <sub>INDEPENDENT SOFTWARE DEVELOPMENT STUDIO</sub>
-</p>
 
-<h1 align="center">ZeoDev Studio</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Thoughtful design. Solid engineering. Digital products built to last.</strong>
-</p>
+<sub>INDEPENDENT SOFTWARE DEVELOPMENT STUDIO</sub>
 
-<p align="center">
-  We turn ideas into websites, applications and connected systems —<br>
-  combining a clear user experience with the technology behind it.
-</p>
+# ZeoDev Studio
 
-<p align="center">
+### Websites, applications and the systems behind them.
+
+We design and develop websites, apps and tools for everyday work.
+From the interface people see to the APIs and services running in the background.
+
+<p>
   <a href="https://studio.zeohost.pl">
-    <img alt="Visit ZeoDev Studio website" src="https://img.shields.io/badge/OUR_STUDIO-VISIT_WEBSITE-1688FF?style=for-the-badge&amp;labelColor=0A1E2C" />
+    <img src="https://img.shields.io/badge/OUR_STUDIO-VISIT_WEBSITE-1688FF?style=for-the-badge&amp;labelColor=0A1E2C" alt="Visit ZeoDev Studio" />
   </a>
   <a href="https://github.com/zeodev-studio?tab=repositories">
-    <img alt="Explore ZeoDev Studio projects" src="https://img.shields.io/badge/OUR_WORK-EXPLORE_PROJECTS-2864AF?style=for-the-badge&amp;labelColor=0A1E2C&amp;logo=github&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-VIEW_PROJECTS-2864AF?style=for-the-badge&amp;labelColor=0A1E2C&amp;logo=github&amp;logoColor=white" alt="Explore our repositories" />
   </a>
   <a href="mailto:kontakt@zeohost.pl?subject=ZeoDev%20Studio%20-%20Project%20Inquiry">
-    <img alt="Contact ZeoDev Studio" src="https://img.shields.io/badge/LET'S_TALK-GET_IN_TOUCH-147D98?style=for-the-badge&amp;labelColor=0A1E2C" />
+    <img src="https://img.shields.io/badge/CONTACT-SEND_AN_EMAIL-147D98?style=for-the-badge&amp;labelColor=0A1E2C" alt="Contact ZeoDev Studio" />
   </a>
 </p>
 
-<p align="center">
-  <code>WEB EXPERIENCES</code> &nbsp; <code>APPLICATIONS</code> &nbsp; <code>BACKEND &amp; APIs</code> &nbsp; <code>AUTOMATION</code>
-</p>
+`WEB` &nbsp;·&nbsp; `MOBILE` &nbsp;·&nbsp; `BACKEND` &nbsp;·&nbsp; `INFRASTRUCTURE`
+
+</div>
 
 ---
 
-## Software with purpose. Engineering with perspective.
+## About the studio
 
-Good digital products bring together more than great visuals and working code. They need a clear direction, thoughtful interactions and reliable systems that are straightforward to maintain.
+ZeoDev Studio is a place for building software that solves real problems. Sometimes that means a straightforward company website. Other times it's an application with accounts, permissions, notifications and several services working together.
 
-At **ZeoDev Studio**, design and development are connected from the beginning. We work from the problem to the product — considering how it looks, how it behaves and how it will grow.
+We look at the whole project, not just the screen. How does it feel to use? What happens when a request fails? Can the next feature be added without making everything harder to maintain? Those details matter to us.
 
-> **Our approach:** keep the experience simple, the architecture understandable and the technology useful.
+## What we do
 
-## What we build
+### 01 / Websites & interfaces
 
-### 01 / Websites & digital experiences
+Company websites, landing pages and responsive web interfaces. Clear navigation, readable layouts and a good experience on phones and desktops come first.
 
-Company websites, landing pages and responsive interfaces created with a strong visual hierarchy and attention to usability. Each experience is designed to feel consistent across desktop and mobile.
+### 02 / Applications & business tools
 
-### 02 / Applications & business software
+Web and mobile apps, dashboards and internal tools. We focus on the way people actually work: the steps they take, the information they need and the tasks they repeat.
 
-Web and mobile applications, management panels and internal tools shaped around real workflows. We connect interfaces with authentication, permissions, data and the features people rely on every day.
+### 03 / APIs & integrations
 
-### 03 / Backend, APIs & integrations
-
-Services that connect products and processes: APIs, databases, real-time communication and third-party integrations. We favor clearly defined components, sensible error handling and maintainable architecture.
+Backends, databases, authentication, real-time features and connections between systems. We keep services understandable and pay attention to what happens when something goes wrong.
 
 ### 04 / Infrastructure & automation
 
-Linux environments, Docker-based services, deployment workflows and operational tooling. The aim is to make systems easier to run, observe, secure and evolve.
+Linux servers, Docker, deployment workflows and scripts that reduce manual work. Getting a service online is only part of the job; keeping it manageable matters too.
 
 ---
 
-## From concept to delivery
+## How we work
 
-**01 — Discover**  
-Understand the idea, goals, users and constraints. Define what matters before choosing how to build it.
+| Step | What happens |
+| :--- | :--- |
+| **01 - Understand** | We talk through the idea, who will use it and what it needs to accomplish. |
+| **02 - Plan** | We work out the interface, technical requirements and how the pieces fit together. |
+| **03 - Build** | We develop the important features and check how they behave in real use. |
+| **04 - Improve** | We prepare the release, fix issues and make room for future changes. |
 
-**02 — Design**  
-Shape the experience and technical foundation: interfaces, user journeys, architecture and integrations.
-
-**03 — Develop**  
-Build in clear, manageable stages. Validate essential workflows, behavior and performance along the way.
-
-**04 — Launch & evolve**  
-Prepare for release, deployment and ongoing improvements based on real needs.
+We don't believe every project needs the biggest stack or the longest feature list. The right solution is the one that fits the work.
 
 ---
 
-## Our ecosystem
+## Two connected brands
 
-### ZeoDev Studio
+**ZeoDev Studio** is focused on websites, applications, business software, APIs and integrations.
 
-**Design & software development**
+**ZeoHost** is our related brand for Minecraft server hosting and the infrastructure behind game servers.
 
-The studio behind our work in websites, applications, business tools, APIs and software integrations.
-
-**[Discover the studio →](https://studio.zeohost.pl)**
-
-### ZeoHost
-
-**Minecraft server hosting & infrastructure**
-
-A connected brand focused on Minecraft hosting and the technology supporting online game servers.
-
-**[Explore ZeoHost →](https://zeohost.pl)**
+<p>
+  <a href="https://studio.zeohost.pl">
+    <img src="https://img.shields.io/badge/ZeoDev_Studio-OUR_WEBSITE-1688FF?style=for-the-badge&amp;labelColor=0A1E2C" alt="ZeoDev Studio website" />
+  </a>
+  <a href="https://zeohost.pl">
+    <img src="https://img.shields.io/badge/ZeoHost-MINECRAFT_HOSTING-2864AF?style=for-the-badge&amp;labelColor=0A1E2C" alt="ZeoHost website" />
+  </a>
+</p>
 
 ---
 
-## Technology we work with
+## Tools & technologies
 
-<sub>APPLICATION DEVELOPMENT</sub>
+**Applications**
 
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0A1E2C?style=flat-square&amp;logo=typescript&amp;logoColor=38BDF8" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0A1E2C?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" />
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-0A1E2C?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
-  <img alt="Expo" src="https://img.shields.io/badge/Expo-0A1E2C?style=flat-square&amp;logo=expo&amp;logoColor=white" />
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-0A1E2C?style=flat-square&logo=typescript&logoColor=38BDF8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A1E2C?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React Native](https://img.shields.io/badge/React_Native-0A1E2C?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-0A1E2C?style=flat-square&logo=expo&logoColor=white)
 
-<sub>SERVICES & DATA</sub>
+**Backend & data**
 
-<p>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0A1E2C?style=flat-square&amp;logo=nodedotjs&amp;logoColor=77C56D" />
-  <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-0A1E2C?style=flat-square&amp;logoColor=white" />
-  <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-0A1E2C?style=flat-square&amp;logo=socketdotio&amp;logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-0A1E2C?style=flat-square&amp;logo=sqlite&amp;logoColor=56B6E4" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-0A1E2C?style=flat-square&logo=nodedotjs&logoColor=77C56D)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0A1E2C?style=flat-square)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-0A1E2C?style=flat-square&logo=socketdotio&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-0A1E2C?style=flat-square&logo=sqlite&logoColor=56B6E4)
 
-<sub>INFRASTRUCTURE & DELIVERY</sub>
+**Servers & delivery**
 
-<p>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-0A1E2C?style=flat-square&amp;logo=linux&amp;logoColor=FCC624" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-0A1E2C?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" />
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-0A1E2C?style=flat-square&amp;logo=cloudflare&amp;logoColor=F38020" />
-  <img alt="Tailscale" src="https://img.shields.io/badge/Tailscale-0A1E2C?style=flat-square&amp;logo=tailscale&amp;logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-0A1E2C?style=flat-square&amp;logo=git&amp;logoColor=F05032" />
-</p>
+![Linux](https://img.shields.io/badge/Linux-0A1E2C?style=flat-square&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-0A1E2C?style=flat-square&logo=docker&logoColor=2496ED)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0A1E2C?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Tailscale](https://img.shields.io/badge/Tailscale-0A1E2C?style=flat-square&logo=tailscale&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0A1E2C?style=flat-square&logo=git&logoColor=F05032)
 
 <details>
-<summary><strong>How we approach engineering</strong></summary>
+<summary><strong>More about how we build software</strong></summary>
 
-<br>
-
-- **Product thinking:** prioritize the needs of users and the goals of the product.
-- **Clear architecture:** keep responsibilities explicit and avoid unnecessary coupling.
-- **Quality:** validate critical flows, handle failures and test what matters.
-- **Security:** protect credentials, apply appropriate access controls and limit exposure.
-- **Performance:** make deliberate choices about data flow and resource use.
-- **Maintainability:** favor readable code, documentation and repeatable deployments.
+We try to keep projects practical: components with clear responsibilities, useful error messages, sensible access control and logs that help when something breaks. We also care about performance, backups and deployments that can be repeated without guesswork.
 
 </details>
 
 ---
 
-## Let's build something worthwhile
+## Have something in mind?
 
-Have an idea for a website, application, internal tool or integration? Start with the challenge — we'll work toward a practical technical direction.
+Need a website, an app or a way to connect existing systems? Tell us what you're working on and what you'd like to improve. We can start there.
 
-<p align="left">
+<p>
   <a href="https://studio.zeohost.pl">
-    <img alt="Explore ZeoDev Studio" src="https://img.shields.io/badge/EXPLORE-OUR_STUDIO-1688FF?style=for-the-badge&amp;labelColor=0A1E2C" />
+    <img src="https://img.shields.io/badge/EXPLORE-OUR_STUDIO-1688FF?style=for-the-badge&amp;labelColor=0A1E2C" alt="Visit the studio" />
   </a>
   <a href="mailto:kontakt@zeohost.pl?subject=ZeoDev%20Studio%20-%20Project%20Inquiry">
-    <img alt="Email ZeoDev Studio" src="https://img.shields.io/badge/CONTACT-SEND_AN_EMAIL-2864AF?style=for-the-badge&amp;labelColor=0A1E2C" />
+    <img src="https://img.shields.io/badge/LETS_TALK-EMAIL_US-147D98?style=for-the-badge&amp;labelColor=0A1E2C" alt="Send an email" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <strong>ZeoDev Studio</strong><br>
-  <sub>Design with intention. Build with care. Evolve with confidence.</sub>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://studio.zeohost.pl">Studio website</a> &nbsp;·&nbsp;
-  <a href="https://github.com/zeodev-studio">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://zeohost.pl">ZeoHost</a>
-</p>
+**ZeoDev Studio**
+<sub>Websites · Applications · APIs · Infrastructure</sub>
+
+[Studio website](https://studio.zeohost.pl) · [Projects](https://github.com/zeodev-studio?tab=repositories) · [ZeoHost](https://zeohost.pl)
+
+</div>
