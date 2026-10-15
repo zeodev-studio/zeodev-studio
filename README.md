@@ -2,124 +2,109 @@
 
 # ZeoDev Studio
 
-**Software engineering · Cloud infrastructure · Digital products**
+### Software engineering. Infrastructure thinking.
 
-*From product interfaces to the systems behind them.*
+**Designing and developing practical software — from the user interface to the systems running behind it.**
 
-[Explore repositories](https://github.com/zeodev-studio?tab=repositories) · [What we do](#what-we-do) · [ZeoHost](#zeohost) · [Technology](#technology)
+Independent development studio focused on applications, connected services and self-hosted infrastructure.
+
+<p>
+  <a href="https://zeohost.pl">
+    <img alt="ZeoHost — website" src="https://img.shields.io/badge/ZeoHost-Visit%20website-087DFF?style=for-the-badge&amp;labelColor=0A1E2C" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/zeodev-studio?tab=repositories">
+    <img alt="GitHub — explore repositories" src="https://img.shields.io/badge/GitHub-Explore%20projects-2254A6?style=for-the-badge&amp;labelColor=0A1E2C&amp;logo=github&amp;logoColor=white" />
+  </a>
+</p>
+
+`APPLICATIONS` &nbsp;·&nbsp; `BACKEND` &nbsp;·&nbsp; `CLOUD` &nbsp;·&nbsp; `DEVOPS`
 
 </div>
 
 ---
 
-## Independent by design. Engineering-led by nature.
+## About ZeoDev Studio
 
-ZeoDev Studio is an independent software development brand working at the intersection of **application engineering, backend systems and infrastructure**.
+ZeoDev Studio brings **application development** and **infrastructure engineering** into one workflow. The work spans intuitive interfaces, reliable backends, service integrations and the environments needed to deploy and operate them.
 
-The goal is straightforward: design useful products, build maintainable software and give every system a dependable technical foundation. That means considering the complete lifecycle — from user experience and API design to deployment, security, monitoring and ongoing improvements.
+The objective is straightforward: **build software that is clear to use, maintainable to develop and practical to operate.**
 
-We value thoughtful technical decisions over unnecessary complexity, and long-term reliability over short-lived solutions.
+## What we build
 
-## What we do
+### 01 — Applications & digital products
 
-### 01 / Application engineering
+Cross-platform applications, internal business tools, web interfaces and systems designed around real user workflows. A consistent experience, responsive design and good performance are part of the engineering process.
 
-Building practical digital tools with a clear focus on usability, consistency and performance.
+### 02 — Backend & connected systems
 
-- **Web applications:** responsive interfaces, dashboards and internal tools.
-- **Mobile applications:** cross-platform experiences and workflows for everyday use.
-- **Product integration:** connecting interfaces, business logic and existing services.
+APIs, authentication, data processing, integrations and real-time communication. Services are structured with clear boundaries, meaningful error handling and room for future development.
 
-### 02 / Backend & real-time systems
+### 03 — Infrastructure & operations
 
-Developing the services that make applications useful, connected and maintainable.
-
-- **API development:** structured endpoints, authentication and data validation.
-- **Data & integrations:** storage, synchronization and communication between services.
-- **Real-time features:** messaging, event-driven workflows and interactive services.
-
-### 03 / Cloud & infrastructure
-
-Working with the operational side of software so applications can be deployed, maintained and improved with confidence.
-
-- **Linux & containers:** service environments, Docker and application deployment.
-- **Networking & hosting:** routing, connectivity, secure access and service delivery.
-- **Operations:** logging, health checks, backups and deployment workflows.
+Linux-based environments, Docker workloads, secure connectivity, deployment processes and operational tooling. The focus is on visibility, repeatable setup and dependable day-to-day maintenance.
 
 ---
 
 ## ZeoHost
 
-**Hosting & infrastructure initiative · In development**
+**Hosting & infrastructure project** · **In development**
 
-ZeoHost is a developing project exploring how hosting and supporting infrastructure can be managed as a coherent, maintainable platform.
+ZeoHost is an infrastructure-focused project being developed alongside the software engineering work at ZeoDev Studio. Its direction includes self-hosting, service deployment, operational management and foundations for future hosting services.
 
-The current engineering direction is centered on:
+Current engineering priorities:
 
-- **Foundations:** service isolation, network configuration and sensible infrastructure boundaries.
-- **Operations:** deployment processes, observability, fault diagnosis and recovery.
-- **Security:** access control, secrets management and careful handling of user data.
-- **Growth:** architecture that can evolve without unnecessary rework.
+- **Service architecture** — separation of components and manageable deployments.
+- **Operations** — diagnostics, monitoring, backups and recovery planning.
+- **Networking & access** — secure connections and controlled exposure of services.
+- **Maintainability** — repeatable configuration and clear operational workflows.
 
-ZeoHost is a work in progress. Information here describes the project's direction, **not a claim of an already launched commercial hosting service**.
+[**Visit ZeoHost.pl →**](https://zeohost.pl)
 
----
-
-## How we engineer
-
-Good engineering is not defined by how many tools a project uses. It is defined by how well the system behaves when real people depend on it.
-
-**Clarity first**  
-Readable code, explicit responsibilities and architecture that developers can understand and maintain.
-
-**Performance with purpose**  
-Efficient loading, responsive interfaces and resource usage considered from the start.
-
-**Reliability in practice**  
-Real error handling, useful logs, recovery paths, testing and operational visibility.
-
-**Security throughout**  
-Protected credentials, minimal privileges, sensible defaults and deliberate access management.
-
-**Built for change**  
-Modular components, stable interfaces and decisions that support future improvements.
+> ZeoHost is an active development project. Features and public availability should not be assumed until they are announced.
 
 ---
 
 ## Technology
 
-The tools below reflect the development and infrastructure areas associated with ZeoDev Studio. The choice of technology depends on the requirements of each project.
-
-**Languages & application development**  
+**Applications**  
 `TypeScript` · `JavaScript` · `React Native` · `Expo`
 
-**Backend & communication**  
-`Node.js` · `REST APIs` · `WebSockets` · `Socket.IO`
+**Services & communication**  
+`Node.js` · `REST APIs` · `WebSockets` · `Socket.IO` · `SQLite`
 
 **Infrastructure & delivery**  
-`Linux` · `Docker` · `Git` · `Cloudflare` · `Tailscale`
+`Linux` · `Docker` · `Cloudflare` · `Tailscale` · `Git`
 
-**Data & tooling**  
-`SQLite` · `SQL` · `GitHub` · `VS Code`
+<details>
+<summary><strong>Engineering approach — read more</strong></summary>
+
+<br>
+
+- **Architecture:** clear responsibility boundaries and reusable components.
+- **Quality:** validation, purposeful testing and readable code.
+- **Performance:** efficient data flow, sensible resource usage and profiling.
+- **Reliability:** helpful diagnostics, error recovery and lifecycle awareness.
+- **Security:** least-privilege access and careful management of credentials.
+- **Maintenance:** documentation, backups and predictable deployments.
+
+</details>
 
 ---
 
 ## Work & repositories
 
-This GitHub profile is the public home for ZeoDev Studio's code, technical experiments and projects selected for publication.
+This GitHub account is the public home of ZeoDev Studio. Selected work may be published here; internal projects, customer data and private infrastructure remain private.
 
-Not every project is public. Private development work, internal systems and customer-related code remain separate from public repositories.
-
-**[Browse public repositories →](https://github.com/zeodev-studio?tab=repositories)**
+[**Explore public repositories →**](https://github.com/zeodev-studio?tab=repositories)
 
 ---
 
 <div align="center">
 
-**ZeoDev Studio**
+**ZeoDev Studio**  
+*Build thoughtfully. Engineer for the long term.*
 
-*Software that makes sense. Infrastructure that lasts.*
-
-[GitHub profile](https://github.com/zeodev-studio) · [Repositories](https://github.com/zeodev-studio?tab=repositories)
+[GitHub](https://github.com/zeodev-studio) &nbsp;·&nbsp; [ZeoHost.pl](https://zeohost.pl)
 
 </div>
