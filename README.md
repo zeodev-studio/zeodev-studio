@@ -1,79 +1,48 @@
-<p align="center">
-  <img src="./zeodev-banner.webp" alt="ZeoDev Studio Banner" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">ZeoDev Studio</h1>
+<img src="./zeodev-hero.webp" width="100%" alt="ZeoDev Studio — Software, Cloud, Infrastructure" />
 
-<p align="center">
-  <b>Software Engineering • Apps • APIs • Cloud • DevOps</b>
-</p>
+<br>
 
-<p align="center">
-  We build modern digital products, backend systems and cloud infrastructure.
-</p>
+**Software engineering · Apps & APIs · Infrastructure**
 
-<p align="center">
-  <a href="https://github.com/zeodev-studio?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20Projects-0A66FF?style=for-the-badge&logo=github" alt="Repositories" />
-  </a>
-  <a href="https://github.com/zeodev-studio">
-    <img src="https://img.shields.io/badge/Profile-ZeoDev%20Studio-111827?style=for-the-badge&logo=github" alt="Profile" />
-  </a>
-</p>
+Building thoughtful software and the systems behind it.
 
----
+[Explore repositories](https://github.com/zeodev-studio?tab=repositories) &nbsp;·&nbsp; [ZeoHost](#zeohost) &nbsp;·&nbsp; [Technology](#technology)
 
-## About
+</div>
 
-ZeoDev Studio is an independent development brand focused on building modern software, backend services and reliable infrastructure.
+<br>
 
-We create scalable solutions designed for performance, maintainability and long-term growth.
+## What we build
 
----
+From product interfaces to backend services and deployment infrastructure — engineered to be practical, maintainable and ready to grow.
 
-## What we do
+<img src="./zeodev-expertise.webp" width="100%" alt="Our work: software products, backend services and APIs, cloud infrastructure and DevOps" />
 
-- **Web & Mobile Applications**
-- **Backend Services & APIs**
-- **Cloud Infrastructure**
-- **DevOps & Automation**
-- **System Architecture**
-- **Hosting Solutions**
+<br>
+
+## ZeoHost
+
+<img src="./zeohost-feature.webp" width="100%" alt="ZeoHost — hosting and cloud infrastructure project in development" />
+
+A hosting and infrastructure initiative currently in development, focused on reliable foundations for future online services.
+
+<br>
+
+## Technology
+
+<img src="./zeodev-stack.webp" width="100%" alt="Technology stack: TypeScript, JavaScript, Node.js, React Native, Expo, Docker, Linux and Git" />
+
+<br>
+
+<div align="center">
 
 ---
 
-## Current project
+**ZeoDev Studio**  
+*Design with purpose. Engineer for the long term.*
 
-### ZeoHost
-A hosting and infrastructure project focused on building a reliable foundation for future online services.
+[GitHub](https://github.com/zeodev-studio) · [Repositories](https://github.com/zeodev-studio?tab=repositories)
 
----
-
-## Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## Focus
-
-- Clean architecture  
-- Scalable systems  
-- Long-term maintainability  
-- Performance and reliability  
-
----
-
-<p align="center">
-  <b>ZeoDev Studio</b><br/>
-  Build thoughtfully. Create for the long term.
-</p>
+</div>
