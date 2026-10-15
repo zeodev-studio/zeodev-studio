@@ -1,51 +1,69 @@
-<h1 align="center">ZeoDev Studio</h1>
+<div align="center">
 
-<p align="center"><strong>Software Engineering · Cloud Infrastructure · Digital Products</strong></p>
+ZeoDev Studio
+Software engineering · Cloud infrastructure · Digital products
+From product interfaces to the systems behind them.
+Explore repositories · What we do · ZeoHost · Technology
+</div>
 
-<p align="center">Independent development studio focused on useful software, well-designed systems and dependable infrastructure.</p>
-
-<p align="center"><a href="https://github.com/zeodev-studio?tab=repositories">Explore repositories</a> · <a href="#what-we-build">What we build</a> · <a href="#zeohost">ZeoHost</a> · <a href="#technology">Technology</a></p>
-
-About the studio
-ZeoDev Studio brings application development and infrastructure engineering together. The goal is to create products that work well for the people using them and remain manageable for the people maintaining them.
-Our work covers the complete technical foundation of a digital product: the user experience, application logic, APIs, data, hosting and operational tooling.
-We value thoughtful architecture over unnecessary complexity, practical solutions over trends, and long-term maintainability over short-lived shortcuts.
-What we build
-Applications & product experiences
-Designing and developing web and mobile applications with attention to usability, consistent interfaces, performance and everyday reliability.
-Backend platforms & integrations
-Building the services behind applications: APIs, authentication, data management, permissions, file processing and real-time communication.
-Cloud & self-hosted infrastructure
-Working with Linux environments, containerized services, networking and storage to create infrastructure that is understandable, secure and maintainable.
-Developer tooling & automation
-Improving development workflows through automation, deployment tooling, diagnostics and repeatable operational processes.
+Independent by design. Engineering-led by nature.
+ZeoDev Studio is an independent software development brand working at the intersection of application engineering, backend systems and infrastructure.
+The goal is straightforward: design useful products, build maintainable software and give every system a dependable technical foundation. That means considering the complete lifecycle — from user experience and API design to deployment, security, monitoring and ongoing improvements.
+We value thoughtful technical decisions over unnecessary complexity, and long-term reliability over short-lived solutions.
+What we do
+01 / Application engineering
+Building practical digital tools with a clear focus on usability, consistency and performance.
+- Web applications: responsive interfaces, dashboards and internal tools.
+- Mobile applications: cross-platform experiences and workflows for everyday use.
+- Product integration: connecting interfaces, business logic and existing services.
+02 / Backend & real-time systems
+Developing the services that make applications useful, connected and maintainable.
+- API development: structured endpoints, authentication and data validation.
+- Data & integrations: storage, synchronization and communication between services.
+- Real-time features: messaging, event-driven workflows and interactive services.
+03 / Cloud & infrastructure
+Working with the operational side of software so applications can be deployed, maintained and improved with confidence.
+- Linux & containers: service environments, Docker and application deployment.
+- Networking & hosting: routing, connectivity, secure access and service delivery.
+- Operations: logging, health checks, backups and deployment workflows.
 ZeoHost
-Hosting and infrastructure project · In development
-ZeoHost is an ongoing initiative focused on the foundation of a hosting platform: how services are deployed, operated, secured and maintained as the platform evolves.
-Current areas of exploration include:
-- Container-based service deployment and lifecycle management
-- Networking, service connectivity and controlled access
-- Storage, backups and operational reliability
-- Monitoring, diagnostics and maintainable infrastructure
-ZeoHost is a work in progress. Features and service availability will be published when they are ready.
+Hosting & infrastructure initiative · In development
+ZeoHost is a developing project exploring how hosting and supporting infrastructure can be managed as a coherent, maintainable platform.
+The current engineering direction is centered on:
+- Foundations: service isolation, network configuration and sensible infrastructure boundaries.
+- Operations: deployment processes, observability, fault diagnosis and recovery.
+- Security: access control, secrets management and careful handling of user data.
+- Growth: architecture that can evolve without unnecessary rework.
+ZeoHost is a work in progress. Information here describes the project's direction, not a claim of an already launched commercial hosting service.
+How we engineer
+Good engineering is not defined by how many tools a project uses. It is defined by how well the system behaves when real people depend on it.
+Clarity first
+Readable code, explicit responsibilities and architecture that developers can understand and maintain.
+Performance with purpose
+Efficient loading, responsive interfaces and resource usage considered from the start.
+Reliability in practice
+Real error handling, useful logs, recovery paths, testing and operational visibility.
+Security throughout
+Protected credentials, minimal privileges, sensible defaults and deliberate access management.
+Built for change
+Modular components, stable interfaces and decisions that support future improvements.
 Technology
-Languages — TypeScript · JavaScript
-Applications — React Native · Expo
-Backend & communication — Node.js · REST APIs · WebSockets
-Infrastructure — Linux · Docker · Networking
-Development workflow — Git · GitHub · Automation
-Technology choices depend on the project. This is a selection of tools used in our work, not a fixed or exhaustive stack.
-Engineering principles
-Clarity first. Structure code and systems so their behavior can be understood, reviewed and maintained.
-Reliability by design. Handle failures explicitly, validate assumptions, and plan for recovery rather than relying on ideal conditions.
-Security as a baseline. Treat authentication, permissions, secrets and data boundaries as core architectural concerns.
-Performance with purpose. Measure important bottlenecks and optimize where it improves real-world experience.
-Build for change. Favor modularity, clear interfaces and documentation so projects can develop without unnecessary rewrites.
-Explore the work
-This GitHub profile is the home for public projects, technical experiments and future releases from ZeoDev Studio. Some development work remains private and is not represented by public repositories.
+The tools below reflect the development and infrastructure areas associated with ZeoDev Studio. The choice of technology depends on the requirements of each project.
+Languages & application development
+TypeScript · JavaScript · React Native · Expo
+Backend & communication
+Node.js · REST APIs · WebSockets · Socket.IO
+Infrastructure & delivery
+Linux · Docker · Git · Cloudflare · Tailscale
+Data & tooling
+SQLite · SQL · GitHub · VS Code
+Work & repositories
+This GitHub profile is the public home for ZeoDev Studio's code, technical experiments and projects selected for publication.
+Not every project is public. Private development work, internal systems and customer-related code remain separate from public repositories.
 Browse public repositories →
-<p align="center"><strong>ZeoDev Studio</strong></p>
+<div align="center">
 
-<p align="center"><em>Thoughtful software. Dependable infrastructure. Built for the long term.</em></p>
-
-<p align="center"><a href="https://github.com/zeodev-studio">GitHub profile</a> · <a href="https://github.com/zeodev-studio?tab=repositories">Repositories</a></p>
+ZeoDev Studio
+Software that makes sense. Infrastructure that lasts.
+GitHub profile · Repositories
+</div>
