@@ -1,6 +1,7 @@
  <div align="center">
 
-<img src="./ZEO_Ptak_Bialy_Czarny_Kwadrat_128x128.png" alt="ZeoDev Studio" width="120" />
+<img src="./ZEO_Ptak_Bialy_Czarny_Kwadrat_MASTER.svg" alt="ZeoDev Studio" width="120" />
+
 
 # ZeoDev Studio
 
