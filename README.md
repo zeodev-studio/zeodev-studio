@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="./assets/zeodev-logo.svg" alt="ZeoDev Studio logo" width="120" />
+<img src="./ZEO_Ptak_Bialy_Czarny_Kwadrat_128x128.png" alt="ZeoDev Studio" width="120" />
 
 # ZeoDev Studio
 
